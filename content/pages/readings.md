@@ -42,29 +42,365 @@ Online Resources
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**PART I: The Roman Empire in the Age of Augustus**{{< /td-colspan >}} |||
-| 2 | Hard Power—From Octavian to Augustus |  {{< br >}}{{< br >}} Wells. _The Roman Empire_. Harvard University Press, 1995, pp. 11–30. ISBN: 9780674777705. \[Preview with [Google Books](http://books.google.com/books?id=1urqHVQ0qQAC&pg=PA11#v=onepage)\] {{< br >}}{{< br >}} Gruen. "Augustus and the Making of the Principate." In _The Cambridge Companion to the Age of Augustus._ Cambridge University Press, 2005, pp. 33–51. ISBN: 9780521807968. \[Preview with [Google Books](http://books.google.com/books?id=ftcx-5j7rjwC&pg=PA33#v=onepage)\] {{< br >}}{{< br >}}  |
-| 3 | Soft Power—Persuasion and the Principate |  {{< br >}}{{< br >}} [The Achievements of the Divine Augustus](http://classics.mit.edu/Augustus/deeds.html). {{< br >}}{{< br >}} \[AWH\] "Augustan Rome," pp. 1-42. {{< br >}}{{< br >}} "[Augustus of Prima Porta](http://en.wikipedia.org/wiki/File:Statue-Augustus.jpg)." Photograph on Wikipedia. {{< br >}}{{< br >}}  |
-| 4 | Running the Empire | Levick. "Techniques of Management and the Feel-Good Factor." In _Augustus: Image and Substance_. Pearson, 2010, pp. 115–63. ISBN: 9780582894211. |
-| 5 | Empire and the Gods |  {{< br >}}{{< br >}} \[AWH\] pp. 63–97. {{< br >}}{{< br >}} \[Virgil\] Book 6. {{< br >}}{{< br >}} Gransden, K.W. and S.J. Harrison. "Reading the _Aeneid_" in _Virgil: The Aeneid_. Cambridge University Press, 2003, pp. 34–46. ISBN: 9780521539807. {{< br >}}{{< br >}}  |
-| 6 | Virgil's Imperial Epic | \[Virgil\] Book 8. |
-| 7 | Imperial Destiny: Aeneas and Dido |  {{< br >}}{{< br >}} \[Virgil\] Book 4. {{< br >}}{{< br >}} Ovid. _Ovid, Heroides 7: Dido's Letter to Aeneas_. CANE Press, 2004. ISBN: 9781934971086. {{< br >}}{{< br >}}  |
-| 8 | The City of Rome and the Forum of Augustus | \[AWH\] pp. 43–62. |
-| 9 | Assessing Augustus: Suetonius and Tacitus |  {{< br >}}{{< br >}} Suetonius. _Lives of the Caesars_. Translated by Catherine Edwards. Oxford University Press, 2009. ISBN: 9780199537563. {{< br >}}{{< br >}} Tacitus. _Annals_. Penguin Classics, 2013, pp. 1.1–15. ISBN: 9780140455649. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**PART II: Emperors of Europe—Charlemagne and Louis the Pious**{{< /td-colspan >}} |||
-| 10 | Overview: The Reigns of Charlemagne and Louis the Pious | Costambeys, Marios, Matthew Innes, and Simon MacLean. _The Carolingian World_. Cambridge University Press, 2011, pp. 31–79, and 154–222. ISBN: 9780521564946. \[Preview with [Google Books](http://books.google.com/books?id=OkSG3X-M80oC&pg=PAfrontcover#v=onepage)\] |
-| 11 | Narrating Carolingian Triumphs: The Annales Regni Francorum |  {{< br >}}{{< br >}} Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 59–67. ISBN: 9780521881524. {{< br >}}{{< br >}} Annals, Royal Frankish. _Carolingian Chronicles: Royal Frankish Annals and Nithard's Histories_. Translated by Bernhard Walter Scholz. University of Michigan Press, 1970, pp. 73–125 (entries for years 794–829). ISBN: 9780472061860. \[Preview with [Google Books](http://books.google.com/books?id=sTzl6wFjehMC&pg=PAfrontcover#v=onepage)\] {{< br >}}{{< br >}}  |
-| 12 | Assessing Charlemagne: Eingard's Life of Charlemagne |  {{< br >}}{{< br >}} Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 67–72. ISBN: 9780521881524. {{< br >}}{{< br >}} \[TFXN\] "Einhard, Life of Charles the Emperor." pp. 1–50. {{< br >}}{{< br >}}  |
-| 13 | Assessing Louis the Pious, I: Thegan's Deeds of Emperor Louis |  {{< br >}}{{< br >}} Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 72–79. ISBN: 9780521881524. {{< br >}}{{< br >}} \[TFXN\] "Thegan, Deeds of Emperor Louis." pp. 187–218. {{< br >}}{{< br >}}  |
-| 14 | Assessing Louis the Pious, II: The Astronomer's Life of Emperor Louis |  {{< br >}}{{< br >}} Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 79–89. ISBN: 9780521881524. {{< br >}}{{< br >}} \[TFXN\] "Astronomer, Life of Emperor Louis." pp. 219–302. {{< br >}}{{< br >}}  |
-| 15 | Imperial Epics: Karolus Magnus et Leo Papa and Ermold the Black |  {{< br >}}{{< br >}} Papa, Karolus Magnus et Leo. _Poetry of the Carolingian Renaissance_. Translated by Peter Godman. University of Oklahoma Press, 1985, pp. 22–4, and 197–207. ISBN: 9780806119397. {{< br >}}{{< br >}} Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 89–95. ISBN: 9780521881524. {{< br >}}{{< br >}} \[TFXN\] "Ermold, In Honor of Louis, the Most Christian Caesar Augustus." pp. 1197–86. {{< br >}}{{< br >}}  |
-| 16 | Apocryphal Stories: Notker's Deeds of Charlemagne | \[TFXN\] "Notker, Deeds of Emperor Charles the Great." pp. 51–118. |
-| {{< td-colspan 3 >}}**PART III: The English Empire in the Age of Edward III**{{< /td-colspan >}} |||
-| 18 | Origins: Legendary Antecedents for English Empire | Geoffrey of Monmouth. _History of the Kings of Britain_. Penguin Books, 1977, pp. 51–74 and 212–65. ISBN: 9780140441703. |
-| 19 | Beginning the War: The Order of the Garter and the Battle of Crécy | \[JF\] pp. 37–45, 55–110. |
-| 20 | Continuing the War: English Success, French Resurgence | \[JF\] pp. 111–92. |
-| 22 | Ricardian Poetry, Edwardian Themes: Arthur's Court Reappears | \[SA\] pp. 1–3. |
-| 23 | Chivalry and Empire in a Post-Edwardian World |  {{< br >}}{{< br >}} \[SA\] p. 4. {{< br >}}{{< br >}} Mann. "[Courtly Aesthetics and Courtly Ethics in SGGK](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/studies_in_the_age_of_chaucer/v031/31.mann.pdf)." _Studies in the Age of Chaucer_ 31 (2009): 231–65. {{< br >}}{{< br >}} Ingledew. "SGGK and the Edwardian Era." In _Sir Gawain and the Green Knight and the Order of the Garter_. University of Notre Dame Press, 2006. ISBN: 9780268031763. {{< br >}}{{< br >}}  |
-| 24 | Combat, Tournament, and the End of a Reign | \[JF\] pp. 309–15, 373–85, 402–8, and 421–71.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART I: The Roman Empire in the Age of Augustus**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Hard Power—From Octavian to Augustus
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wells. _The Roman Empire_. Harvard University Press, 1995, pp. 11–30. ISBN: 9780674777705. \[Preview with [Google Books](http://books.google.com/books?id=1urqHVQ0qQAC&pg=PA11#v=onepage)\]
+
+Gruen. "Augustus and the Making of the Principate." In _The Cambridge Companion to the Age of Augustus._ Cambridge University Press, 2005, pp. 33–51. ISBN: 9780521807968. \[Preview with [Google Books](http://books.google.com/books?id=ftcx-5j7rjwC&pg=PA33#v=onepage)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Soft Power—Persuasion and the Principate
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[The Achievements of the Divine Augustus](http://classics.mit.edu/Augustus/deeds.html).
+
+\[AWH\] "Augustan Rome," pp. 1-42.
+
+"[Augustus of Prima Porta](http://en.wikipedia.org/wiki/File:Statue-Augustus.jpg)." Photograph on Wikipedia.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Running the Empire
+{{< tdclose >}}
+{{< tdopen >}}
+Levick. "Techniques of Management and the Feel-Good Factor." In _Augustus: Image and Substance_. Pearson, 2010, pp. 115–63. ISBN: 9780582894211.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Empire and the Gods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[AWH\] pp. 63–97.
+
+\[Virgil\] Book 6.
+
+Gransden, K.W. and S.J. Harrison. "Reading the _Aeneid_" in _Virgil: The Aeneid_. Cambridge University Press, 2003, pp. 34–46. ISBN: 9780521539807.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Virgil's Imperial Epic
+{{< tdclose >}}
+{{< tdopen >}}
+\[Virgil\] Book 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Imperial Destiny: Aeneas and Dido
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Virgil\] Book 4.
+
+Ovid. _Ovid, Heroides 7: Dido's Letter to Aeneas_. CANE Press, 2004. ISBN: 9781934971086.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The City of Rome and the Forum of Augustus
+{{< tdclose >}}
+{{< tdopen >}}
+\[AWH\] pp. 43–62.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing Augustus: Suetonius and Tacitus
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Suetonius. _Lives of the Caesars_. Translated by Catherine Edwards. Oxford University Press, 2009. ISBN: 9780199537563.
+
+Tacitus. _Annals_. Penguin Classics, 2013, pp. 1.1–15. ISBN: 9780140455649.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART II: Emperors of Europe—Charlemagne and Louis the Pious**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Overview: The Reigns of Charlemagne and Louis the Pious
+{{< tdclose >}}
+{{< tdopen >}}
+Costambeys, Marios, Matthew Innes, and Simon MacLean. _The Carolingian World_. Cambridge University Press, 2011, pp. 31–79, and 154–222. ISBN: 9780521564946. \[Preview with [Google Books](http://books.google.com/books?id=OkSG3X-M80oC&pg=PAfrontcover#v=onepage)\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Narrating Carolingian Triumphs: The Annales Regni Francorum
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 59–67. ISBN: 9780521881524.
+
+Annals, Royal Frankish. _Carolingian Chronicles: Royal Frankish Annals and Nithard's Histories_. Translated by Bernhard Walter Scholz. University of Michigan Press, 1970, pp. 73–125 (entries for years 794–829). ISBN: 9780472061860. \[Preview with [Google Books](http://books.google.com/books?id=sTzl6wFjehMC&pg=PAfrontcover#v=onepage)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing Charlemagne: Eingard's Life of Charlemagne
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 67–72. ISBN: 9780521881524.
+
+\[TFXN\] "Einhard, Life of Charles the Emperor." pp. 1–50.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing Louis the Pious, I: Thegan's Deeds of Emperor Louis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 72–79. ISBN: 9780521881524.
+
+\[TFXN\] "Thegan, Deeds of Emperor Louis." pp. 187–218.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing Louis the Pious, II: The Astronomer's Life of Emperor Louis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 79–89. ISBN: 9780521881524.
+
+\[TFXN\] "Astronomer, Life of Emperor Louis." pp. 219–302.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Imperial Epics: Karolus Magnus et Leo Papa and Ermold the Black
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Papa, Karolus Magnus et Leo. _Poetry of the Carolingian Renaissance_. Translated by Peter Godman. University of Oklahoma Press, 1985, pp. 22–4, and 197–207. ISBN: 9780806119397.
+
+Jong, Mayke de de. _The Penitential State. Authority and Atonement in the Age of Louis the Pious, 814–840_. Cambridge University Press, 2009, pp. 89–95. ISBN: 9780521881524.
+
+\[TFXN\] "Ermold, In Honor of Louis, the Most Christian Caesar Augustus." pp. 1197–86.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Apocryphal Stories: Notker's Deeds of Charlemagne
+{{< tdclose >}}
+{{< tdopen >}}
+\[TFXN\] "Notker, Deeds of Emperor Charles the Great." pp. 51–118.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**PART III: The English Empire in the Age of Edward III**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Origins: Legendary Antecedents for English Empire
+{{< tdclose >}}
+{{< tdopen >}}
+Geoffrey of Monmouth. _History of the Kings of Britain_. Penguin Books, 1977, pp. 51–74 and 212–65. ISBN: 9780140441703.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning the War: The Order of the Garter and the Battle of Crécy
+{{< tdclose >}}
+{{< tdopen >}}
+\[JF\] pp. 37–45, 55–110.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Continuing the War: English Success, French Resurgence
+{{< tdclose >}}
+{{< tdopen >}}
+\[JF\] pp. 111–92.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Ricardian Poetry, Edwardian Themes: Arthur's Court Reappears
+{{< tdclose >}}
+{{< tdopen >}}
+\[SA\] pp. 1–3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Chivalry and Empire in a Post-Edwardian World
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[SA\] p. 4.
+
+Mann. "[Courtly Aesthetics and Courtly Ethics in SGGK](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/studies_in_the_age_of_chaucer/v031/31.mann.pdf)." _Studies in the Age of Chaucer_ 31 (2009): 231–65.
+
+Ingledew. "SGGK and the Edwardian Era." In _Sir Gawain and the Green Knight and the Order of the Garter_. University of Notre Dame Press, 2006. ISBN: 9780268031763.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Combat, Tournament, and the End of a Reign
+{{< tdclose >}}
+{{< tdopen >}}
+\[JF\] pp. 309–15, 373–85, 402–8, and 421–71.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -19,13 +19,66 @@ This course is an interdisciplinary and comparative investigation of the Roman e
 **Assessment and Grading**
 --------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 30 |
-| Paper 1 | 10 |
-| Revision of Paper 1 | 15 |
-| Paper 2 | 20 |
-| Paper 3 | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revision of Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Participation: 30%
 ------------------------
